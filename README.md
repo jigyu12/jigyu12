@@ -37,7 +37,7 @@
     <tr>
       <td><sub>2025.03~05</sub></td>
       <td><strong>🐶 Animal Breakout</strong></td>
-      <td>3D 모바일 방치형 게임</td>
+      <td>모바일 : 3D 하이퍼 캐주얼 러닝 게임</td>
       <td align="center"><a href="https://play.google.com/store/apps/details?id=com.KyungIl.TrainingSpaceSoldier&hl=ko">🔗</a></td>
       <td>
         <img src="https://img.shields.io/badge/C%23-80247B?style=flat-square&logo=csharp&logoColor=white"/>
@@ -47,7 +47,7 @@
     <tr>
       <td><sub>2025.01~02</sub></td>
       <td><strong>🍀 Lucky Chess Defense</strong></td>
-      <td>3D 모바일 디펜스 게임</td>
+      <td>모바일 : 2D 오토배틀러 타워디펜스 게임</td>
       <td align="center"><a href="https://github.com/shgi99/TeamProject_RTD">🔗</a></td>
       <td>
         <img src="https://img.shields.io/badge/C%23-80247B?style=flat-square&logo=csharp&logoColor=white"/>
