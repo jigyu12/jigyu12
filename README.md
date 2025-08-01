@@ -23,7 +23,7 @@
 <section>
   <h2>🎮 Projects</h2>
 
-<div align="center">
+<div
 
 <table>
   <thead>
