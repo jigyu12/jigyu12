@@ -29,7 +29,7 @@
       <th>기간</th>
       <th>프로젝트</th>
       <th>소개</th>
-      <th>바로가기</th>
+      <th>깃 허브 바로가기</th>
       <th>사용 기술</th>
     </tr>
   </thead>
@@ -57,7 +57,7 @@
     <tr>
       <td><sub>2024.11~12</sub></td>
       <td><strong>🗡️ Dungreed (모작)</strong></td>
-      <td>Hotline Miami 게임 모작 팀 프로젝트</td>
+      <td>PC : 2D 로그라이트 플랫포머 액션 게임</td>
       <td align="center"><a href="https://github.com/ddodo1997/SFML-Team-Project">🔗</a></td>
       <td>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
