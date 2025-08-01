@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linear-%231E1E3F?style=flat-square&logo=linear"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/Discord-%235865F2?style=flat-square&logo=discord&logoColor=FFFFFF"/> -->
+  <img src="https://img.shields.io/badge/Discord-%235865F2?style=flat-square&logo=discord&logoColor=FFFFFF"/>
    </ul>
   </article>
  <article>
