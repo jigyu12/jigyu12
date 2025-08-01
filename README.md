@@ -23,65 +23,6 @@
 <section>
   <h2>🎮 Projects</h2>
 
-  <article>
-       <h3><a href="https://github.com/KALI-UM/Unity-AnimalBreakOut" target="_blank" rel="noopener noreferrer">
-  Animal Breakout  <img src="https://img.shields.io/badge/C%23-80247B?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></h3></a>
-    <ul>
-      <li>모바일</li>
-      <li>3D 런 장르</li>
-      <li><a href="https://play.google.com/store/apps/details?id=com.Kyungil.AnimalBreakOut&pcampaignid=web_share"target="_blank" rel="noopener noreferrer"> Google Play 스토어 출시</a></li>
-    </ul>
-  </article>
-
-  <article>
-           <h3><a href="https://github.com/KALI-UM/Unity-MiniTeam9" target="_blank" rel="noopener noreferrer">
-  그만 좀 쳐들어와 <img src="https://img.shields.io/badge/C%23-80247B?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></h3></a>
-    <ul>
-      <li>모바일</li>
-      <li>2D 랜덤타워디팬스(운빨존많겜 모작)</li>
-    </ul>
-  </article>
-
-  <article>
-    <h3><a href="https://github.com/KALI-UM/SFML-StardewValley" target="_blank" rel="noopener noreferrer">
-  Stardew Valley 모작 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white"/> <img src="https://img.shields.io/badge/ImGui-00465B?style=flat-square"/></h3></a>
-    <ul>
-      <li> PC</li>
-      <li> 2D 타일 뷰</li>
-    </ul>
-  </article>
-
-  <article>
-    <h3><a href="https://github.com/KALI-UM/SFML-SimCity2000" target="_blank" rel="noopener noreferrer">
-  SimCity2000 모작 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white"/> <img src="https://img.shields.io/badge/ImGui-00465B?style=flat-square"/></h3></a>
-    <ul>
-      <li> PC</li>
-      <li> 2D 타일 뷰</li>
-    </ul>
-  </article>
-
-  <article>
-    <h3><a href="https://github.com/KALI-UM/SEEDVAULT.git" target="_blank" rel="noopener noreferrer">
-  SEED VAULT <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white"/> <img src="https://img.shields.io/badge/ImGui-00465B?style=flat-square"/></h3></a>
-    <ul>
-      <li> PC</li>
-      <li> C++ 게임 엔진 제작, Qt6 오브젝트 배치툴 제작</li>
-    </ul>
-  </article>
-</section>
-
-
-
-<p align="center">
- 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jigyu12)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigyu12)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<h3 align="center">🛠️ Projects</h3>
-
 <div align="center">
 
 <table>
@@ -140,3 +81,11 @@
 </table>
 
 </div>
+
+
+<p align="center">
+ 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jigyu12)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigyu12)](https://github.com/anuraghazra/github-readme-stats)
