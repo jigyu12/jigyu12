@@ -23,8 +23,6 @@
 <section>
   <h2>🎮 Projects</h2>
 
-<div align="center">
-
 <table>
   <thead>
     <tr>
@@ -79,8 +77,6 @@
     </tr>
   </tbody>
 </table>
-
-</div> align="center">
 
 
 <p
