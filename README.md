@@ -46,7 +46,7 @@
       </td>
     </tr>
     <tr>
-      <td><sub>2025.01 ~ 02</sub></td>
+      <td><sub>2025.01~02</sub></td>
       <td><strong>🍀 Lucky Chess Defense</strong></td>
       <td>3D 모바일 디펜스 게임</td>
       <td align="center"><a href="https://github.com/shgi99/TeamProject_RTD">🔗</a></td>
