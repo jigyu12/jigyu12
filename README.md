@@ -65,16 +65,6 @@
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
       </td>
     </tr>
-    <tr>
-      <td><sub>2024.11</sub></td>
-      <td><strong>🎮 고군분투 모작</strong></td>
-      <td>고군분투 게임 모작 개인 프로젝트</td>
-      <td align="center"><a href="https://github.com/shgi99/SFMLProject_Struggle">🔗</a></td>
-      <td>
-        <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-      </td>
-    </tr>
   </tbody>
 </table>
 
