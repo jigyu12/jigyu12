@@ -40,9 +40,7 @@
       <td><strong>🐶 Animal Breakout</strong></td>
       <td>
       모바일 : 3D 하이퍼 캐주얼 러닝 게임<br/>
-      <a href="https://play.google.com/store/apps/details?id=com.Kyungil.AnimalBreakOut&pli=1" style="display: block; text-align: center;">
-      구글 플레이 스토어
-      </a>
+      <a href="https://play.google.com/store/apps/details?id=com.Kyungil.AnimalBreakOut&pli=1">구글 플레이 스토어</a>
       </td>
       <td align="center"><a href="https://github.com/jigyu12/Unity_Team_Project-Animal_Breakout">🔗</a></td>
       <td align="center"><a href="">🕹</a></td>
