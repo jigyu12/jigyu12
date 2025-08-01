@@ -23,7 +23,7 @@
 <section>
   <h2>🎮 Projects</h2>
 
-<div align="center">
+<div
 
 <table>
   <thead>
@@ -83,7 +83,7 @@
 </div>
 
 
-<p align="center">
+<p
  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jigyu12)](https://github.com/anuraghazra/github-readme-stats)
