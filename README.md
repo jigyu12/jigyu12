@@ -1,5 +1,5 @@
 
-## 🧩 About Me
+##  <img src="[https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white](https://notion-emojis.s3-us-west-2.amazonaws.com/prod/svg-twitter/1f9d1-200d-1f4bb.svg)"/>
  <article>
        <h3>🛠️ Tools</h3>
    <ul>
