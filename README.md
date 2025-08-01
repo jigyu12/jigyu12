@@ -35,7 +35,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><sub>2025.03 ~ 05</sub></td>
+      <td><sub>2025.03~05</sub></td>
       <td><strong>🐶 Animal Breakout</strong></td>
       <td>3D 모바일 방치형 게임</td>
       <td align="center"><a href="https://play.google.com/store/apps/details?id=com.KyungIl.TrainingSpaceSoldier&hl=ko">🔗</a></td>
@@ -56,7 +56,7 @@
       </td>
     </tr>
     <tr>
-      <td><sub>2024.11 ~ 12</sub></td>
+      <td><sub>2024.11~12</sub></td>
       <td><strong>🗡️ Dungreed (모작)</strong></td>
       <td>Hotline Miami 게임 모작 팀 프로젝트</td>
       <td align="center"><a href="https://github.com/ddodo1997/SFML-Team-Project">🔗</a></td>
