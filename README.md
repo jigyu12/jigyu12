@@ -74,7 +74,7 @@
 
 <p align="center">
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KALI-UM)](https://github.com/KALI-UM/github-readme-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-UM&layout=donut&langs_count=4" width="400"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jigyu12)](https://github.com/jigyu12/github-readme-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyu12&layout=donut&langs_count=4" width="400"/>
 <!--
 
 
