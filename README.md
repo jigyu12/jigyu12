@@ -1,10 +1,10 @@
 
-## 👨‍💻 About Me
+## 🌱 About Me
  <article>
        <h3>🛠️ Tools</h3>
    <ul>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SVN-181717?style=flat-square&logo=svn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linear-%231E1E3F?logo=linear"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
    </ul>
   </article>
