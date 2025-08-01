@@ -50,7 +50,7 @@
       <td><sub>2025.01~02</sub></td>
       <td><strong>🍀 Lucky Chess Defense</strong></td>
       <td>모바일 : 2D 오토배틀러 타워디펜스 게임</td>
-      <td align="center"><a href="https://github.com/jigyu12/Unity_Personal_Project-Lucky_Chess_Defense">🔗</a></td>
+      <td><a href="https://github.com/jigyu12/Unity_Personal_Project-Lucky_Chess_Defense">🔗</a></td>
       <td align="center"><a href="">🕹</a></td>
       <td>
         <img src="https://img.shields.io/badge/C%23-80247B?style=flat-square&logo=csharp&logoColor=white"/>
