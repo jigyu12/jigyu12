@@ -39,7 +39,7 @@
       <td><sub>2025.03~05</sub></td>
       <td><strong>🐶 Animal Breakout</strong></td>
       <td>모바일 : 3D 하이퍼 캐주얼 러닝 게임</td>
-      <td><a href="https://github.com/jigyu12/Unity_Team_Project-Animal_Breakout">🔗</a></td>
+      <td align="center"><a href="https://github.com/jigyu12/Unity_Team_Project-Animal_Breakout">🔗</a></td>
       <td align="center"><a href="">🕹</a></td>
       <td>
         <img src="https://img.shields.io/badge/C%23-80247B?style=flat-square&logo=csharp&logoColor=white"/>
@@ -50,7 +50,7 @@
       <td><sub>2025.01~02</sub></td>
       <td><strong>🍀 Lucky Chess Defense</strong></td>
       <td>모바일 : 2D 오토배틀러 타워디펜스 게임</td>
-      <td><a href="https://github.com/jigyu12/Unity_Personal_Project-Lucky_Chess_Defense">🔗</a></td>
+      <td align="center"><a href="https://github.com/jigyu12/Unity_Personal_Project-Lucky_Chess_Defense">🔗</a></td>
       <td align="center"><a href="">🕹</a></td>
       <td>
         <img src="https://img.shields.io/badge/C%23-80247B?style=flat-square&logo=csharp&logoColor=white"/>
@@ -61,7 +61,7 @@
       <td><sub>2024.11~12</sub></td>
       <td><strong>🗡️ Dungreed (모작)</strong></td>
       <td>PC : 2D 로그라이트 플랫포머 액션 게임</td>
-      <td><a href="https://github.com/jigyu12/SFML_Team_Mockup_Project-Dungreed">🔗</a></td>
+      <td align="center"><a href="https://github.com/jigyu12/SFML_Team_Mockup_Project-Dungreed">🔗</a></td>
       <td align="center"><a href="">🕹</a></td>
       <td>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
