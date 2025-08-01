@@ -12,12 +12,10 @@
  <article>
        <h3>💻 Languages & Frameworks</h3>
    <ul>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-80247B?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ImGui-00465B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
    </ul>
    </article>
    
