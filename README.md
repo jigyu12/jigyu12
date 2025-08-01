@@ -40,9 +40,8 @@
       <td>3D 모바일 방치형 게임</td>
       <td align="center"><a href="https://play.google.com/store/apps/details?id=com.KyungIl.TrainingSpaceSoldier&hl=ko">🔗</a></td>
       <td>
-        <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
         <img src="https://img.shields.io/badge/C%23-80247B?style=flat-square&logo=csharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
       </td>
     </tr>
     <tr>
@@ -51,8 +50,8 @@
       <td>3D 모바일 디펜스 게임</td>
       <td align="center"><a href="https://github.com/shgi99/TeamProject_RTD">🔗</a></td>
       <td>
-        <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
         <img src="https://img.shields.io/badge/C%23-80247B?style=flat-square&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
       </td>
     </tr>
     <tr>
@@ -61,8 +60,8 @@
       <td>Hotline Miami 게임 모작 팀 프로젝트</td>
       <td align="center"><a href="https://github.com/ddodo1997/SFML-Team-Project">🔗</a></td>
       <td>
-        <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white"/>
       </td>
     </tr>
   </tbody>
