@@ -76,7 +76,7 @@
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jigyu12)](https://github.com/jigyu12/github-readme-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyu12&layout=donut&langs_count=4" width="400"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jigyu12)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 
