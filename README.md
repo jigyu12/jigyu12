@@ -54,7 +54,7 @@
       <td><strong>🍀 Lucky Chess Defense</strong></td>
       <td>모바일 : 2D 타워디펜스 게임</td>
       <td align="center"><a href="https://github.com/jigyu12/Unity_Personal_Project-Lucky_Chess_Defense">🔗</a></td>
-      <td align="center"><a href="https://youtu.be/wvj0e9c6jRs?si=LLmFZmSI0UmFCga_">🕹</a></td>
+      <td align="center"><a href="https://youtu.be/KBWO-f_zjt0?si=LluuWEHh8-n710Ky">🕹</a></td>
       <td>
         <img src="https://img.shields.io/badge/C%23-80247B?style=flat-square&logo=csharp&logoColor=white"/>
         <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/>
